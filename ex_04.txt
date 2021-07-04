@@ -1,0 +1,5 @@
+The format() method formats the specified value(s) and inserts them inside the string's placeholder.
+
+The placeholder is defined using curly brackets: {}. 
+
+The format() method returns the formatted string.
