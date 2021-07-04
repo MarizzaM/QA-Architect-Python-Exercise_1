@@ -1,0 +1,1 @@
+Python relies on indentation (whitespace at the beginning of a line) to define scope in the code.
