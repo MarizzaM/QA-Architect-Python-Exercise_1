@@ -1,0 +1,2 @@
+The split() method splits a string into a list.
+x = txt.split(" separator ")
