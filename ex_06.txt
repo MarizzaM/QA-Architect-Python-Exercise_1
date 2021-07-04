@@ -1,0 +1,3 @@
+An "if statement" is written by using the if keyword.
+The elif keyword is Python's way of saying "if the previous conditions were not true, then try this condition".
+The else keyword catches anything which isn't caught by the preceding conditions.
