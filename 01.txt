@@ -1,0 +1,2 @@
+Input command allows for user input
+Input() return String type
