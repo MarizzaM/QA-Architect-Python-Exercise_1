@@ -1,0 +1,5 @@
+The in keyword has two purposes:
+
+The in keyword is used to check if a value is present in a sequence (list, range, string etc.).
+
+The in keyword is also used to iterate through a sequence in a for loop
